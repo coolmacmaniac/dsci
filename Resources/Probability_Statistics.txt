@@ -2,3 +2,7 @@ Statistics theory
 -----------------
 https://www.coursehero.com/study-guides/odessa-introstats1-1/
 https://www.coursehero.com/study-guides/ll-statsfmu/
+
+Data puzzles & Google Colab activities
+--------------------------------------
+https://data-puzzles.com
