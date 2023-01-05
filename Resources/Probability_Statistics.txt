@@ -6,3 +6,13 @@ https://www.coursehero.com/study-guides/ll-statsfmu/
 Data puzzles & Google Colab activities
 --------------------------------------
 https://data-puzzles.com
+
+ML interview preparation YT playlists
+-------------------------------------
+https://www.youtube.com/playlist?list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY
+https://www.youtube.com/playlist?list=PLKnIA16_Rmva_ZdY31wpEICG0KHnvIhu2
+
+DS interview preparation YT playlists
+-------------------------------------
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-
+https://www.youtube.com/playlist?list=PLKnIA16_RmvZTD2oti9S1jDTX7xTC7PSO
